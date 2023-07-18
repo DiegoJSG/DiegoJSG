@@ -14,6 +14,8 @@
 )](https://www.facebook.com/diego.jonathan.9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:diego.ssj1@gmail.com)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/diego.guedes)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJSG&hide_progress=true)
 
