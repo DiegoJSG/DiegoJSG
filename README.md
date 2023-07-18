@@ -3,12 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=30&center=true&vCenter=true&width=1000&lines=Hey,+Welcome+to+my+Profile;My+name+is+Diego+Jonathan;I'm+29+years+old;I'm+from+Brazil;I+Graduated+in+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-- 🔭  Em busca do meu primeiro trabalho na area Tech
-- 🌱  Estudando Data Science 
-- 🧱  Construindo um Github melhor a cada dia
-- ⚡  Curiosidade Pessoal : Ja quis ser Mangaká 
-- 📫  Contate - me : 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+- 🔭  Em busca do meu primeiro trabalho na area Tech | Looking for my first job in the Tech area
+- 🌱  Estudando Data Science | Studying Data Science
+- 🧱  Construindo um Github melhor a cada dia | Building a better Github every day
+- ⚡  Fun Fact : Ja quis ser Mangaká | I already wanted to be mangaka
+- 📫  Contate - me | Text me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/diego-jonathan-b83a91200/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://www.facebook.com/diego.jonathan.9)
