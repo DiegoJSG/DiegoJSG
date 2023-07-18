@@ -1,4 +1,7 @@
-### Ola, Bem Vindo ao meu perfil 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=30&center=true&vCenter=true&width=1000&lines=Hey,+Welcome+to+my+Profile;My+name+is+Diego+Jonathan;I'm+29+years+old;I'm+from+Brazil;I+Graduated+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 - 🔭  Em busca do meu primeiro trabalho na area Tech
 - 🌱  Estudando Data Science 
@@ -14,14 +17,21 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJSG&hide_progress=true)
 
-## Tecnologias que tenho conhecimento
-
+## Main skills:
 <div style="display: inline_block"><br/>
+    <img aling="center" alt="Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
     <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img aling="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img aling="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
     <img aling="center" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+</div>
+
+ ## Studying in this moment:  
+ <div style="display: inline_block"><br/>
+    <img aling="center" alt="ChatGPT" src="https://uploaddeimagens.com.br/images/004/548/649/thumb/download.png?1689701392" />
     <img aling="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img aling="center" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
