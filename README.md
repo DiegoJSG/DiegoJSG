@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=30&center=true&vCenter=true&width=1000&lines=Hey,+Welcome+to+my+Profile;My+name+is+Diego+Jonathan;I'm+29+years+old;I'm+from+Brazil;I+Graduated+in+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Comic+Neue&color=000000&size=30&duration=4500&center=true&vCenter=true&width=1000&lines=Hey,+Welcome+to+my+Profile;My+name+is+Diego+Jonathan;I'm+from+Brazil;I+have+a+degree+in+Data+Science;Follow+me;And+be+Welcome+!)](https://git.io/typing-svg)
 
 
-- 🔭  Looking for my first job in the Tech area
+- 🔭  Looking for my first job in the Data Science
 - 🌱  Studying Data Science
-- 🧱   Building a better Github every day
+- 🧱  Building a better Github every day
 - ⚡  Fun Fact : I already wanted to be mangaka
 - 📫  Text me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/diego-jonathan-b83a91200/)
