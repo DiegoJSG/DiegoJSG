@@ -15,8 +15,7 @@
 )](mailto:diego.ssj1@gmail.com)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/diego.guedes)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJSG&hide_progress=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DiegoJSG?cardType=github&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ## Main skills / Still Studying:
 <div style="display: inline_block"><br/>
